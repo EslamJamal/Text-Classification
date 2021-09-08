@@ -1,4 +1,4 @@
-# Readme PROJECT 2 - TEXT CLASSIFICATION
+# PROJECT: TEXT CLASSIFICATION
 In this readme we include all the infos about the code available in this repository and further informations about the execution and the reproducibily of the results.
 
 ## Prerequisites
